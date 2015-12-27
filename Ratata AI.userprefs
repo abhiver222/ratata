@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\OVR\Moonlight\Scripts\Utils\motionControl.cs">
+    <Files>
+      <File FileName="Assets\OVR\Moonlight\Scripts\Utils\motionControl.cs" Line="19" Column="104" />
+      <File FileName="Assets\OVR\Scripts\Util\OVRSceneSampleController.cs" Line="1" Column="1" />
+      <File FileName="c:\Users\averma11\Desktop\Ratata AI\Assets\OVR\Scripts\OVRCommon.cs" Line="1" Column="1" />
+      <File FileName="Assets\Yurowm\Demo\Scripts\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\OVR\Scripts\Util\OVRPlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\OVR\Scripts\OVRCameraRig.cs" Line="306" Column="1" />
+      <File FileName="Assets\OVR\Moonlight\Scripts\Utils\MenuRotation.cs" Line="17" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

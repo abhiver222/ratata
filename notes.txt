@@ -1,0 +1,17 @@
+W -> Move forward
+S -> rotate left
+D -> rotate right
+s -> move back slow
+tab -> toggle speed
+
+change ipd for making everything look big               -> done
+add ai (check out unity store for scripts)              -> needs work
+get a working menu, do a jump between screens           -> done
+colliders sometimes work, sometimes fail                -> needs work 
+
+
+Exit locations : 
+1) besides the bed
+2) bathroom behind the bathtub
+3) living room besides the right speaker
+4) balcony

@@ -1,0 +1,291 @@
+Initialize engine version: 5.1.2p2 (207c2b8718a4)
+[VRDevice] Successfully created device oculus.
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX TITAN Black (ID=0x100c)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\ajain34\Desktop\Ratata AI with start\ratata_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\ajain34\Desktop\Ratata AI with start\ratata_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\ajain34\Desktop\Ratata AI with start\ratata_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\ajain34\Desktop\Ratata AI with start\ratata_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\ajain34\Desktop\Ratata AI with start\ratata_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\ajain34\Desktop\Ratata AI with start\ratata_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\ajain34\Desktop\Ratata AI with start\ratata_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\ajain34\Desktop\Ratata AI with start\ratata_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\ajain34\Desktop\Ratata AI with start\ratata_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\ajain34\Desktop\Ratata AI with start\ratata_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\ajain34\Desktop\Ratata AI with start\ratata_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\ajain34\Desktop\Ratata AI with start\ratata_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\ajain34\Desktop\Ratata AI with start\ratata_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.104 seconds
+desktop: 2560x1440 59Hz; virtual: 5120x1440 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+ConvexHullBuilder: convex hull has more than 255 polygons!
+ 
+(Filename: ..\..\PhysXCooking\src\convex\ConvexHullBuilder.cpp Line: 1486)
+
+Gu::ConvexMesh::loadConvexHull: convex hull init failed! Try to use the PxConvexFlag::eINFLATE_CONVEX flag. (see PxToolkit::createConvexMeshSafe)
+ 
+(Filename: ..\..\PhysXCooking\src\convex\ConvexMeshBuilder.cpp Line: 266)
+
+Platform assembly: C:\Users\ajain34\Desktop\Ratata AI with start\ratata_Data\Managed\System.dll (this message is harmless)
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+Shader 'Legacy Shaders/Reflective/Specular': fallback shader 'Legacy Shaders/Reflective/VertexLit' not found
+[CAPI] LibOVR module is located at C:\Windows\system32\LibOVRRT32_0_6.dll
+
+ 
+(Filename:  Line: 52)
+
+Unity v5.1.2p2, Oculus Utilities v0.1.2.0, OVRPlugin v0.1.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Creating volume controller...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 25cc -> priority: 1 
+  Thread -> id: 1ce4 -> priority: 1 
+Cooking::cookConvexMesh: user-provided hull must have less than 256 vertices!
+ 
+(Filename: ..\..\PhysXCooking\src\Cooking.cpp Line: 278)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.501757 ms
+Cooking::cookConvexMesh: user-provided hull must have less than 256 vertices!
+ 
+(Filename: ..\..\PhysXCooking\src\Cooking.cpp Line: 278)
+
+Cooking::cookConvexMesh: user-provided hull must have less than 256 vertices!
+ 
+(Filename: ..\..\PhysXCooking\src\Cooking.cpp Line: 278)
+
+ConvexHullBuilder: convex hull has more than 255 polygons!
+ 
+(Filename: ..\..\PhysXCooking\src\convex\ConvexHullBuilder.cpp Line: 1486)
+
+Gu::ConvexMesh::loadConvexHull: convex hull init failed! Try to use the PxConvexFlag::eINFLATE_CONVEX flag. (see PxToolkit::createConvexMeshSafe)
+ 
+(Filename: ..\..\PhysXCooking\src\convex\ConvexMeshBuilder.cpp Line: 266)
+
+Unity v5.1.2p2, Oculus Utilities v0.1.2.0, OVRPlugin v0.1.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 2223.
+Total: 0.314878 ms (FindLiveObjects: 0.057173 ms CreateObjectMapping: 0.020479 ms MarkObjects: 0.187732 ms  DeleteObjects: 0.049208 ms)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at robo_animationCheck_free.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.857614 ms
+Unity v5.1.2p2, Oculus Utilities v0.1.2.0, OVRPlugin v0.1.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+
+Unloading 116 unused Assets to reduce memory usage. Loaded Objects now: 795.
+Total: 0.490948 ms (FindLiveObjects: 0.022755 ms CreateObjectMapping: 0.023893 ms MarkObjects: 0.160425 ms  DeleteObjects: 0.283589 ms)
+
+Cooking::cookConvexMesh: user-provided hull must have less than 256 vertices!
+ 
+(Filename: ..\..\PhysXCooking\src\Cooking.cpp Line: 278)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.430931 ms
+Cooking::cookConvexMesh: user-provided hull must have less than 256 vertices!
+ 
+(Filename: ..\..\PhysXCooking\src\Cooking.cpp Line: 278)
+
+Cooking::cookConvexMesh: user-provided hull must have less than 256 vertices!
+ 
+(Filename: ..\..\PhysXCooking\src\Cooking.cpp Line: 278)
+
+ConvexHullBuilder: convex hull has more than 255 polygons!
+ 
+(Filename: ..\..\PhysXCooking\src\convex\ConvexHullBuilder.cpp Line: 1486)
+
+Gu::ConvexMesh::loadConvexHull: convex hull init failed! Try to use the PxConvexFlag::eINFLATE_CONVEX flag. (see PxToolkit::createConvexMeshSafe)
+ 
+(Filename: ..\..\PhysXCooking\src\convex\ConvexMeshBuilder.cpp Line: 266)
+
+Unity v5.1.2p2, Oculus Utilities v0.1.2.0, OVRPlugin v0.1.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2257.
+Total: 0.376886 ms (FindLiveObjects: 0.066844 ms CreateObjectMapping: 0.021333 ms MarkObjects: 0.250025 ms  DeleteObjects: 0.038684 ms)
+
+5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at robo_animationCheck_free.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.920741 ms
+Unity v5.1.2p2, Oculus Utilities v0.1.2.0, OVRPlugin v0.1.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+
+Unloading 116 unused Assets to reduce memory usage. Loaded Objects now: 795.
+Total: 0.512281 ms (FindLiveObjects: 0.022186 ms CreateObjectMapping: 0.050061 ms MarkObjects: 0.182043 ms  DeleteObjects: 0.257705 ms)
+
